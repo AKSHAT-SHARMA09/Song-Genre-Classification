@@ -1,1 +1,3 @@
 # Song-Genre-Classification
+
+The purpose of this project and research is to leverage the power of deep learning Technologies to predict the genre and mood of songs. In this research, a multi classification model is developed and trained over multiple datasets such as Free Music Archive (FMA). and a manually created dataset using songs and their features extracted from Spotify. The performance of these models is compared with other Models and Machine Learning techniques. A backend is created to use this model to predict the mood of the song by simply adding the song name and artist name which will result the song mood to be classified into one of the 4 categories: ‘Happy’, ‘Energetic’, ‘Calm’, ‘Sad’. 
