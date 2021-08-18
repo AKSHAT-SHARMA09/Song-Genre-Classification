@@ -1,0 +1,101 @@
+name,album,artist,id,release_date,popularity,length,danceability,acousticness,energy,instrumentalness,liveness,valence,loudness,speechiness,tempo,key,time_signature,mood
+Shimmer,Shimmer,JFDR,5GCBU0qNaeKvZBhoGDgxXR,2020-01-29,0,201384,0.532,0.765,0.214,0.0782,0.0914,0.402,-15.628,0.0324,136.137,2,4,Calm
+Green,Green (An Original Song from the Motion Picture “Sound of Metal”),Abraham Marder,5Qbbt2pFCtK1TURRKyc44t,2021-02-12,43,267251,0.35,0.944,0.0229,0.000761,0.111,0.0803,-19.263,0.0427,131.177,1,4,Calm
+Nothing’s Gonna Happen,Good Woman,The Staves,4WM5HfHQZ0N4o8HDNwRmRk,2021-02-05,56,216746,0.36,0.77,0.209,5.1E-05,0.129,0.213,-12.289,0.0322,75.349,2,4,Calm
+Surrender,Surrender,Birdy,65cQkOFngSgj37Gnzp4ry4,2021-01-22,62,234240,0.353,0.661,0.386,0.000231,0.0806,0.269,-10.927,0.045,147.808,0,4,Calm
+Symmetry - Dark Version,Symmetry (Dark Version),SYML,6xgMqv60ltHfEn3o8cbkET,2020-02-28,0,233200,0.444,0.977,0.036,0.00458,0.109,0.157,-18.933,0.0433,72.702,2,4,Calm
+Break My Heart - Piano Acoustic,Break My Heart (Piano Acoustic),JC Stewart,7e5HVLu9xSydLebKSqBebM,2021-02-12,58,218293,0.448,0.943,0.247,3.61E-05,0.109,0.276,-10.454,0.0466,134.5,6,4,Calm
+Exhale - Edit,Exhale,Jónsi,1kuZYUny8zNJ2whFQIMWEb,2020-04-23,22,242800,0.27,0.495,0.358,0.198,0.151,0.113,-11.168,0.0308,95.936,5,4,Calm
+Say You'll Be There - Acoustic,Say You'll Be There (Acoustic),Shaefri,4THGYAdqSKMmyugQDjz659,2020-10-07,19,202779,0.442,0.93,0.394,0.00189,0.106,0.283,-8.138,0.0322,124.634,5,3,Calm
+Feels Like This,Dressed Too Nice For A Jacket,Maisie Peters,53Wsf11ElpPr1WAGtRQlcx,2018-11-02,56,223346,0.384,0.958,0.165,0,0.101,0.333,-9.601,0.0446,68.469,2,4,Calm
+Berlin,Dawn,RY X,7BSMSvK0WxrDeI98bswYa8,2016-05-06,59,174172,0.393,0.963,0.0668,0.105,0.107,0.0384,-20.755,0.0404,136.938,7,4,Calm
+13th of January,Sleep Talk,Patricia Lalor,1qolVx4UYCFfccC10wFG0x,2020-04-10,16,180800,0.574,0.905,0.247,0.0323,0.113,0.212,-15.25,0.0282,115.102,2,4,Calm
+Counting Flowers,Counting Flowers,EVER,7f6tmZhAL2D9CTLfSyWDHC,2020-09-18,16,188759,0.316,0.615,0.409,5.14E-05,0.306,0.282,-5.959,0.0414,81.813,10,4,Calm
+Where's My Love,The Bird,SYML,2dssj4b2CNkmrMfZRbEXIM,2019-02-14,0,202106,0.598,0.853,0.343,0.0219,0.123,0.419,-11.04,0.025,103.984,0,4,Calm
+Distant Land,Distant Land,Garrett Kato,4LkT6t2o3URthSNIoUQ7xc,2019-06-14,41,201000,0.54,0.638,0.456,0.0345,0.102,0.409,-11.905,0.0303,82.05,1,4,Calm
+Whirlwind,Whirlwind,Sam Ryder,4FdlrVG63Nsx9I7dBtsh6J,2021-02-23,65,208088,0.427,0.739,0.6,4.53E-06,0.172,0.254,-5.512,0.0385,80.603,3,4,Calm
+Head And Heart On Fire,Head And Heart On Fire,LÉON,4rqe64hyIfoMfiBcvVZqfT,2020-09-18,3,155303,0.569,0.699,0.311,0,0.0938,0.244,-8.267,0.0276,125.913,10,4,Calm
+Loneliness,Loneliness,Birdy,3fZpuY6pfjBeMsrnKMtbXQ,2021-02-12,58,202400,0.595,0.536,0.56,0,0.156,0.483,-7.988,0.0327,131.833,1,4,Calm
+Nazareth,Nazareth,The Staves,03JgKNVxicoLINfg3q8qBv,2020-08-07,43,250162,0.494,0.982,0.106,4.93E-05,0.0777,0.211,-16.851,0.0316,105.877,3,4,Calm
+Promise,Every Kingdom,Ben Howard,4qyfir5Yr7nfo05g6cyFMT,2011-01-01,65,384080,0.367,0.889,0.189,0.428,0.364,0.177,-15.736,0.0384,156.643,2,4,Calm
+Mystery of Love,Call Me By Your Name (Original Motion Picture Soundtrack),Various Artists,4HbeGjbt7u3pvwDk1vN7P0,2017-11-03,69,248964,0.365,0.94,0.273,0.431,0.109,0.238,-16.526,0.038,132.285,4,5,Calm
+cul de sac,cul de sac,trayer tryon,17EwIxh2j0710mB2lGO10p,2020-09-01,31,354843,0.149,0.946,0.411,0.922,0.3,0.192,-14.344,0.0371,104.926,0,4,Calm
+loyal,Loyal,Jasmine Thompson,3xYCHCokOiH0OjtkCZaEAq,2019-02-15,28,226570,0.452,0.41,0.401,9.84E-06,0.127,0.106,-6.67,0.0594,67.482,8,3,Calm
+You Say - Piano/Vocal,You Say (Piano/Vocal),Lauren Daigle,7i7lbzxW5XIUH04tOVNc0D,2019-01-25,51,276137,0.555,0.885,0.344,0,0.109,0.238,-7.04,0.0268,147.893,5,4,Calm
+Waiting,EP II (+ Skisser EP),Alice Boman,0WnR9teHmp1tkQF33DztIS,2014-05-26,0,184320,0.317,0.975,0.328,0.123,0.116,0.088,-10.084,0.0303,85.264,8,4,Calm
+Loved You Once,Loved You Once,Clara Mae,3LbwR2WcofkDBp4LSgGJh1,2019-06-21,57,148603,0.444,0.655,0.436,0,0.157,0.307,-5.988,0.042,77.724,4,3,Calm
+Television [Single Version],Television,Delmer Darion,2dY98tCejSSvgvO3PiaLwG,2020-09-02,12,238058,0.603,0.906,0.365,0.618,0.14,0.578,-15.875,0.0365,139.952,6,4,Calm
+Our Remains,Our Remains,Beta Radio,6pBxnT5MpmA4apvkJkKVii,2018-04-06,0,244120,0.329,0.867,0.319,0.0399,0.114,0.29,-12.078,0.0335,198.116,1,4,Calm
+The Blower's Daughter,O,Damien Rice,4B2lJinAkeNLSJjcq3dg8Q,2003-06-03,55,286653,0.342,0.134,0.2,0.000153,0.341,0.0743,-13.569,0.0324,133.113,4,4,Calm
+Charlie Darwin,Oh My God Charlie Darwin (Standard),The Low Anthem,3MdPDYxD89AcSCaEpkptYq,2009-06-09,26,271800,0.273,0.701,0.138,0,0.0942,0.106,-11.734,0.0313,83.381,0,4,Calm
+Arms,On the Train Ride Home,The Paper Kites,48HT7Zzd3We4ZjG82lsbdK,2018-04-18,63,203560,0.41,0.931,0.141,0.0898,0.118,0.239,-18.564,0.0337,149.884,2,4,Calm
+A Thousand Years,A Thousand Years,Christina Perri,6lanRgr6wXibZr8KgzXxBl,2011-10-18,80,285120,0.421,0.309,0.407,0.000961,0.11,0.161,-7.445,0.0267,139.028,10,3,Calm
+Make It Holy,If I Was (Deluxe Edition),The Staves,6aIDKjD8xOEEd6xcNnINw2,2014-10-20,42,273546,0.564,0.869,0.255,3.99E-05,0.135,0.215,-12.982,0.0318,133.075,5,4,Calm
+Write It Down - Acoustic,Write It Down (Acoustic),Hamzaa,3t28k4yNuDN5N2wj1KqVv2,2019-11-29,38,237709,0.384,0.834,0.297,0,0.0876,0.471,-6.773,0.0428,82.284,10,4,Calm
+We Never Change,Parachutes,Coldplay,5TB6QgrF0RPIxSCGfRDLoe,2000-07-10,60,249400,0.433,0.535,0.288,0.000169,0.105,0.131,-10.801,0.0296,136.939,6,3,Calm
+Please Be Patient with Me,Sky Blue Sky,Wilco,6KjhpY9ylfLNEJx6RB7xJC,2007-05-11,35,197133,0.462,0.928,0.147,0.165,0.115,0.151,-13.357,0.0323,91.694,3,3,Calm
+How It Gets In (feat. Julien Baker),Recorded Songs,Frightened Rabbit,42ogcCoEQpdE84Hyvg36s8,2017-09-15,37,161200,0.35,0.547,0.576,0.000121,0.0983,0.117,-7.196,0.0423,98.867,9,4,Calm
+Skinny Love,Skinny Love,Birdy,0xJtHBdhpdLuClaSQYddI4,2011-01-30,17,200939,0.387,0.96,0.298,0.00397,0.117,0.18,-8.797,0.049,87.571,4,4,Calm
+Sense of Home,Sense of Home,Harrison Storm,68wibJU4yMiqNX79IaLAsN,2015-03-31,61,265840,0.564,0.892,0.207,1.8E-06,0.102,0.0898,-10.926,0.032,139.933,3,4,Calm
+IOU,Shelter,Olivia Chaney,566x9tfHqcnSM2LgxdIjR8,2018-06-15,39,243026,0.509,0.88,0.289,0.0036,0.111,0.156,-8.3,0.0286,158.799,4,3,Calm
+Glowing Brightly,If Blue Could Be Happiness,Florist,4naz1EdNwZhREzp7CKFn23,2017-09-29,0,209153,0.64,0.776,0.257,0.0368,0.101,0.187,-13.069,0.0345,79.957,0,4,Calm
+Come Home To Me,LÉON,LÉON,2K8elWg8ihrZRwZJ7Gy6L3,2019-03-01,64,225868,0.66,0.953,0.193,0,0.0953,0.296,-8.904,0.0725,82.035,11,4,Calm
+Birthday,Birthday,Maisie Peters,5QvL5shIrzH2A2zG0DZwh3,2017-11-10,50,194000,0.627,0.712,0.255,0,0.0901,0.307,-11.225,0.0342,105.072,1,4,Calm
+Self Control,Self Control,Linying,1WkSt8zFDaSDkMRsJnTojE,2019-06-14,40,230975,0.593,0.935,0.233,0,0.118,0.189,-7.631,0.0423,78.834,6,4,Calm
+Homesick,Dua Lipa (Deluxe),Dua Lipa,5E5MqaS6eOsbaJibl3YeMZ,2017-06-02,68,230480,0.426,0.948,0.224,0,0.112,0.399,-8.683,0.0391,85.728,6,5,Calm
+Love Me the Same,Love Me the Same,Dan Caplen,5WO1gmX6aI6kToQggDkolN,2019-01-18,44,201758,0.347,0.788,0.297,0,0.113,0.158,-9.463,0.0487,205.641,5,4,Calm
+Desperate Measures,Desperate Measures,Yore,39z3F1vTbPCfffJHPxD09A,2019-05-31,0,192334,0.269,0.483,0.227,4.43E-05,0.11,0.128,-12.804,0.0304,99.211,1,3,Calm
+Breakers Roar,A Sailor's Guide to Earth,Sturgill Simpson,7rR5X9RKz5VprclstYOLb5,2016-04-15,49,212586,0.369,0.669,0.31,0.514,0.245,0.165,-13.384,0.0309,84.41,11,4,Calm
+Lost In The Waves,Lost In The Waves,Richard Reed Parry,2updvw82OBtehcEIMurec3,2019-05-21,8,393933,0.131,0.887,0.312,0.905,0.1,0.119,-16.775,0.0371,78.828,6,4,Calm
+My Lotus Flower & Me,My Lotus Flower & Me,Finn Andrews,0vWj6wEjdDU1OjgilHN3i4,2020-01-03,0,221476,0.409,0.834,0.236,0.00229,0.127,0.237,-12.908,0.0422,139.459,2,5,Calm
+Follow You Anywhere,Boy From The North,Monica Heldal,1GHXVtRkiOj96w7I2vdQWh,2013-10-17,36,232080,0.465,0.755,0.424,0.101,0.104,0.223,-10.479,0.0248,88.707,4,4,Calm
+Baby Where You Are,Magic Ship,Mountain Man,7tZwFmarYtM2Yxy8IRW8wb,2018-09-21,43,169333,0.608,0.945,0.0491,0.0321,0.115,0.337,-19.527,0.0382,127.688,7,3,Calm
+Black Moss,nūmūn,Johanna Warren,43Brqebz9aqpMyoCuqc6ns,2015-05-15,32,248349,0.432,0.916,0.267,0.00107,0.122,0.158,-11.739,0.031,131.02,11,4,Calm
+Bloom - Bonus Track,Woodland - EP,The Paper Kites,41yIvlFgvGwxq8qTqAR7eG,2013-03-05,73,210080,0.592,0.882,0.416,0.000586,0.112,0.417,-9.794,0.0246,96.002,1,4,Calm
+Give You Up,Still on My Mind,Dido,35b9ljYHjIUSTkgQWHbnt6,2019-03-08,50,201533,0.646,0.663,0.431,0,0.117,0.13,-6.759,0.0477,133.841,5,4,Calm
+Heart of Gold - 2009 Remaster,Harvest (2009 Remaster),Neil Young,1Q1b8eVkUPGlpSArl8JAVw,1972-02-14,73,187013,0.541,0.189,0.459,0.0274,0.099,0.803,-10.433,0.0297,171.165,4,4,Calm
+I Wanted to Leave,I Wanted to Leave,SYML,77AixrPcd03tR4tWMHuxro,2020-10-09,17,203911,0.485,0.989,0.0626,0.9,0.111,0.276,-19.536,0.0375,170.264,8,3,Calm
+YaYaYa,Unfurl,RY X,1gmj9SGmFea50SyyVYgFkP,2019-02-15,58,229533,0.482,0.734,0.279,0.0551,0.106,0.101,-15.37,0.0283,92.586,1,3,Calm
+Untitled #4 - Njósnavélin,( ),Sigur Rós,3fjoFeVDK2ifrZ4yOCwFYC,2002-02-16,46,417080,0.204,0.407,0.421,0.75,0.162,0.117,-11.806,0.0317,117.34,0,4,Calm
+Across the Sea,The Sweeplings,The Sweeplings,5lF0udjDpntF5K2eN0bbvs,2014-09-08,44,203760,0.511,0.814,0.305,6.06E-06,0.0949,0.195,-11.62,0.0273,73.923,0,4,Calm
+Old Now,The Kingfisher,Rosemary & Garlic,3xz0695PzzLPN28B6jgi0y,2015-01-10,56,289970,0.491,0.82,0.406,0.245,0.122,0.279,-13.309,0.0278,140.051,5,3,Calm
+Waiting Around - Acoustic,Vacancy EP,Aisha Badru,6sFLeTTehG9M2nmZ3jKJ1p,2015-03-10,57,152960,0.484,0.987,0.149,0.00811,0.111,0.123,-14.991,0.0372,144.589,0,4,Calm
+I Can Change,Free Yourself Up,Lake Street Dive,0jCe45cYIc6NXedmbIKy0Q,2018-05-04,60,191693,0.546,0.868,0.193,4.18E-05,0.087,0.311,-11.903,0.0426,139.795,0,4,Calm
+"Take Me Home, Country Roads",Sings John Denver,Mountain Man,2UJ9eh4cex6ulccBrskJXd,2019-02-26,48,212212,0.294,0.941,0.0598,0,0.144,0.254,-13.03,0.0365,82.088,11,4,Calm
+To Ohio,Oh My God Charlie Darwin (Standard),The Low Anthem,6Es3Z9JmH7yd2HFWC77LpK,2009-06-09,27,197600,0.267,0.0592,0.38,2.33E-05,0.136,0.214,-9.735,0.0279,145.317,2,4,Calm
+Every Time I Hear That Song,"By The Way, I Forgive You",Brandi Carlile,0hoRmVUp5cZ1empu0nSHU8,2018-02-16,58,241146,0.577,0.544,0.53,3.29E-06,0.103,0.22,-6.749,0.0312,85.471,7,4,Calm
+Where We Left Off,Por Favor,Brett Dennen,6EFLuuYmbEKptZ4wE7va44,2016-05-20,25,240293,0.73,0.809,0.124,0.000151,0.121,0.264,-14.311,0.0362,109.719,0,3,Calm
+Gentle Punches - Acoustic,Gentle Punches (Acoustic),Jack in Water,4zgVEQmZjDVa78UgSElni1,2019-04-05,10,187762,0.69,0.895,0.07,0,0.242,0.277,-13.233,0.0413,89.071,11,4,Calm
+Simple Song,Southern Family,Various Artists,11fpLMWAcwPENBFe3jVxJC,2016-03-11,20,240066,0.244,0.601,0.189,0.00645,0.0801,0.253,-13.214,0.0377,205.319,10,3,Calm
+In A Future Age,Together At Last,Jeff Tweedy,4XSY7g1qYadLUQ7ajBZRvN,2017-06-23,0,172493,0.553,0.899,0.105,0.0183,0.0982,0.142,-16.209,0.041,126.064,2,4,Calm
+Tidal Wave - Acoustic,Cover My Own (Acoustic EP),Old Sea Brigade,6dTLGUU6eeMD9tu8PwPWn8,2018-04-20,54,155050,0.646,0.935,0.288,0.00122,0.16,0.338,-15.797,0.032,106.923,1,4,Calm
+Bridges - Acoustic,Bridges Collection,Aisha Badru,7py6lV4iFplM2gR4kGCLwm,2018-07-20,37,193038,0.318,0.722,0.326,0,0.18,0.202,-9.983,0.037,171.095,1,5,Calm
+Twins,Breakers,Gem Club,0HkeFfUXYEW21pTlqeADdV,2011-09-27,0,259733,0.256,0.974,0.0674,0.0717,0.116,0.0441,-16.34,0.0356,122.959,9,3,Calm
+Grow As We Go,Sing To Me Instead,Ben Platt,6hYvw3LLTViP2mT4MpDNmT,2019-03-29,71,249426,0.458,0.882,0.137,0,0.15,0.437,-14.083,0.0355,80.824,8,4,Calm
+Headlights,Permanent Way,Charlie Cunningham,3IHdzl5BgvBJCScbAC8BPH,2019-06-07,57,212453,0.617,0.878,0.4,0.0285,0.0977,0.507,-15.469,0.0569,86.051,9,4,Calm
+I Just Don't Care That Much - Stripped,I Just Don't Care That Much (Stripped),Matt Maeson,2gMNSIlHuVTO3MsOJxO150,2019-05-03,0,227253,0.594,0.805,0.29,0,0.0692,0.13,-10.921,0.0372,115.868,6,4,Calm
+Don't You Dare,Don't You Dare,Winnie Raeder,4NCjNWpT35pN9LAWKn8sUQ,2019-04-25,34,182231,0.355,0.938,0.107,0,0.104,0.208,-10.839,0.0503,172.706,0,3,Calm
+May I Have This Dance,May I Have This Dance,Meadowlark,3YToI74MpP1RN2b2VYlhMQ,2017-10-06,45,211316,0.51,0.89,0.187,0,0.0897,0.369,-12.12,0.0338,87.782,1,4,Calm
+Trouble on My Mind,The Way Is Read,The Staves,6wJ8H81GyWIyrBxH74juwo,2017-11-24,31,191200,0.198,0.966,0.252,0.00227,0.136,0.161,-10.668,0.0326,106.7,7,5,Calm
+Bust,M for Empathy,Lomelda,6vqxiOTAWPiO2Frn6uTP9B,2019-03-01,0,91989,0.514,0.93,0.235,0.417,0.112,0.0898,-18.359,0.0467,154.672,0,1,Calm
+I'd Do Well - Acoustic,I'd Do Well (Acoustic),Tim Hart,2AMNarskaS96sAaGgcEYSi,2017-11-10,46,173780,0.522,0.811,0.299,1.31E-05,0.103,0.279,-10.043,0.0265,138.471,10,4,Calm
+Sudden Love - Acoustic,"Parallels, Vol. II",The Woodlands,3FKvMu3dvPhj7vUIHUIM4H,2016-01-07,53,182213,0.717,0.839,0.312,2.04E-06,0.124,0.315,-12.202,0.0335,130.569,0,4,Calm
+Untamed,Before the Bridge,Eddie Berman,1TDKNDMFsFCWJneWAmjLRm,2017-09-01,54,238213,0.397,0.784,0.264,0.176,0.113,0.0857,-11.396,0.029,90.771,4,4,Calm
+Grateful,Grateful,Mahalia,7mvma3mO5hSyhVbJDXxtFz,2019-04-26,61,185991,0.655,0.73,0.351,0.000176,0.291,0.316,-7.628,0.153,141.689,7,4,Calm
+I Wish I Wish,Bright Sunny South,Sam Amidon,02d7m51SjPVO2RU8i1sgwN,2013,30,167026,0.497,0.891,0.26,0.371,0.0736,0.398,-13.403,0.0274,147.806,2,3,Calm
+Find a Way,Year of the Cartographer,Quiet Arrows,4thl33Wis6fAH41YjEyfoo,2015-08-27,52,167413,0.698,0.924,0.101,0.0215,0.095,0.254,-15.266,0.0427,119.908,8,4,Calm
+Body Sun,Unfurl,RY X,44ESfFxXvgdG3LY0SgbWav,2019-02-15,45,300640,0.575,0.756,0.403,0.391,0.109,0.0554,-13.236,0.0278,121.97,9,4,Calm
+Same Sea,Midnight Machines,Lights,6FRuWHPja7mwNx0kyxfQ61,2016-04-08,35,252680,0.589,0.866,0.369,0.00011,0.115,0.307,-9.633,0.0322,120.915,2,4,Calm
+I'm on Fire,If I Was (Deluxe Edition),The Staves,14WxdK01IyDl3bumvqufxH,2014-10-20,60,192053,0.302,0.741,0.191,9.6E-05,0.11,0.0703,-15.166,0.0318,75.704,2,4,Calm
+Not About Angels,Not About Angels,Birdy,5sF7hdYvhrcgNq8NZjfK8L,2014-04-13,74,189475,0.405,0.964,0.111,4.37E-05,0.0872,0.219,-11.879,0.0369,116.86,0,4,Calm
+Middle Names,Ape in Pink Marble,Devendra Banhart,4ewGoo3c885Ipyn57KlPV3,2016-09-23,45,208773,0.681,0.977,0.175,0.481,0.0878,0.349,-15.595,0.0402,110.011,1,4,Calm
+Arrows - Acoustic,Arrows (Stripped),Angel Snow,4mVTkdIUe8sTyDTo017rjV,2019-03-08,25,215776,0.6,0.919,0.109,1.67E-06,0.125,0.371,-18.125,0.0434,128.919,2,4,Calm
+Wonderful - Solo,Blood (Solo),Lianne La Havas,5ljfu108yl7hBzkou64vnB,2015-07-31,23,261212,0.371,0.978,0.185,0.000173,0.0865,0.197,-10.488,0.0394,177.058,1,4,Calm
+9 Crimes,9,Damien Rice,08YEGpKt2LHJ0URCXKHEie,2006-11-07,57,219226,0.329,0.913,0.167,9.56E-05,0.0921,0.0995,-13.103,0.0296,74.174,0,4,Calm
+The Lonely 1,Being There,Wilco,7DazBjEUpTtyJmiiihvF5Z,1996-10-29,24,288773,0.277,0.885,0.189,0.0042,0.114,0.147,-13.409,0.04,178.821,0,4,Calm
+Everglow,Everglow,Coldplay,6aG68QSwv0hgNTq90I2GOE,2016-11-10,63,227506,0.425,0.968,0.257,0.0181,0.115,0.341,-8.467,0.0321,144.479,4,4,Calm
+Shine On Rainy Day,Shine On Rainy Day,Brent Cobb,7quBiDUDKznmbCLDjjIUdm,2016-10-07,37,263306,0.742,0.656,0.212,2.82E-05,0.107,0.227,-12.095,0.0364,120.547,7,4,Calm
+Juma Mountain,The Following Mountain,Sam Amidon,2i9lTmLLekACc4KBW06Flk,2017-05-12,38,218213,0.48,0.775,0.471,0.602,0.286,0.245,-12.448,0.0358,162.1,11,4,Calm
+Steady,If I Was (Deluxe Edition),The Staves,7nPISm9kJLgZVhkIozoLZS,2014-10-20,42,208893,0.433,0.619,0.629,0.0012,0.11,0.222,-7.859,0.0365,138.857,11,4,Calm
+"Sugar, We're Goin Down","Sugar, We're Goin Down",Roses & Revolutions,0UbctctuhxpwiQrbX8m3uO,2019-05-31,5,209500,0.69,0.848,0.237,0,0.134,0.365,-10.433,0.0357,131.885,11,4,Calm
+Chelsea Hotel #1,Chelsea Hotel #1,OK Button,1N7QEJrCUW4p4jnZTAYDdI,2018-11-02,12,113477,0.437,0.763,0.309,9.62E-06,0.111,0.1,-9.351,0.127,79.699,8,4,Calm
